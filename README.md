@@ -1,0 +1,2 @@
+# Estudio_Socioeconomico_Medellin2020_LogisticoBayesiano
+Estudio Socioeconómico de los Habitantes de Medellín 2020
